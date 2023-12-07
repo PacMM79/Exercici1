@@ -103,3 +103,42 @@ body {
     width: auto;
     }
 }
+/* Small devices (phones, 580px and down) */
+@media only screen and (max-width: 580px) {
+.nav {
+    display: block;
+}    
+.nav1, .nav2, .nav3 {
+    width: auto;
+}
+.mainbox  {
+    background-color: #FEFF03;
+    display: block;
+}
+.main {
+    background-color: #09506F;
+    width: auto;
+}
+.main_1, .main_2 {
+    display: block;
+}
+.main_in1 {
+    background-color: #62959C;
+    width: auto;
+    margin-right: auto;
+}
+.main_in2 {
+    background-color: #62959C;
+    width: auto;
+}
+.main_in5 {
+    background-color: #A3DDCB;
+}
+.main_side {
+    background-color: #FD7B54;
+    width: auto;
+} 
+.side1 {
+    background-color: #FDB36B;
+}   
+}
